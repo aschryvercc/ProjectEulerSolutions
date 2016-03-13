@@ -1,1 +1,6 @@
 C:\Project-Euler\Solution-One\Solution-One\bin\Debug\Solution-One.exe.config
+C:\Project-Euler\Solution-One\Solution-One\bin\Debug\Solution-One.exe
+C:\Project-Euler\Solution-One\Solution-One\bin\Debug\Solution-One.pdb
+C:\Project-Euler\Solution-One\Solution-One\obj\Debug\Solution-One.csprojResolveAssemblyReference.cache
+C:\Project-Euler\Solution-One\Solution-One\obj\Debug\Solution-One.exe
+C:\Project-Euler\Solution-One\Solution-One\obj\Debug\Solution-One.pdb
